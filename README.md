@@ -19,7 +19,7 @@
 | Character | Role | Signature Form / Move |
 | :--- | :--- | :--- |
 | Goku | Main Protagonist | Ultra Instinct |
-| Vegeta | Rival & Ally | Super Saiyan Blue Evolved |
+| Vegeta | Rival & Ally | Super Saiyan Blue Evolved/ Ultra Ego|
 | Beerus | God of Destruction | Hakai |
 
 > "Power comes in response to a need, not a desire." — Goku
